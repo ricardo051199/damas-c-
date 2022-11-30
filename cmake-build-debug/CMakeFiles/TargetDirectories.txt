@@ -1,0 +1,3 @@
+C:/Users/RICARDO/Downloads/Progra II/proyecto final/cmake-build-debug/CMakeFiles/proyecto_final.dir
+C:/Users/RICARDO/Downloads/Progra II/proyecto final/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/RICARDO/Downloads/Progra II/proyecto final/cmake-build-debug/CMakeFiles/rebuild_cache.dir
